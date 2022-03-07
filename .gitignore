@@ -3,3 +3,4 @@ wolweb
 .vscode
 config.json
 devices.json
+.env
